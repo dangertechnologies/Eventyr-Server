@@ -1,14 +1,6 @@
----
-date: '2019-09-14'
-title: 'Æventyr'
-category: 'Projects'
-tags: ['Technology', 'Coding']
-banner: '/projects/eventyr/banner.jpg'
-icon: '/projects/eventyr/icon.png'
----
 
 
-<img src="/projects/eventyr/icon.png" width="100px" align="left" style="margin-right: 10px; margin-bottom: 10px; border-radius: 20%;"/> Way back, in 2010 or so while hanging out with my friends, I randomly walked into the kitchen and burst out "Achievement unlocked!". I'm not entirely sure why that popped into my head, but it had me asking "Wait, why can't we have Achievements in real life? Oh, right, it's cause we don't have minimaps in real life". I was holding my new iPhone at the time, and this was when iPhones were a fairly new phenomenon. *"Wait, we **do** have minimaps!"*. There just wasn't any reason for why we couldn't have Achievements in real life, I thought.
+<img src="https://dangertechnologies.com/projects/eventyr/icon.png" width="100px" align="left" style="margin-right: 10px; margin-bottom: 10px; border-radius: 20%;"/> Way back, in 2010 or so while hanging out with my friends, I randomly walked into the kitchen and burst out "Achievement unlocked!". I'm not entirely sure why that popped into my head, but it had me asking "Wait, why can't we have Achievements in real life? Oh, right, it's cause we don't have minimaps in real life". I was holding my new iPhone at the time, and this was when iPhones were a fairly new phenomenon. *"Wait, we **do** have minimaps!"*. There just wasn't any reason for why we couldn't have Achievements in real life, I thought.
 
 I thought this would be a great project to work on - to bring the concept of *achievements* to life, as a sort of augmented reality game, and began thinking about how to structure this.
 
