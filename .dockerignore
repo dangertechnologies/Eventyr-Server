@@ -1,0 +1,15 @@
+.git
+Dockerfile
+.DS_Store
+.gitignore
+README.md
+.env
+.env*
+DEPRECATED_CONTROLLERS
+doc
+.azconfig
+.azpostgres
+.ruby-version
+.ruby-gemset
+AZURE.md
+tmp

@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+source .env
+cat app.deploy.yml | envsubst > app.yaml
+gcloud app deploy --verbosity debug
+rm -f app.yaml

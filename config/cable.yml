@@ -1,0 +1,9 @@
+development:
+  adapter: redis
+
+test:
+  adapter: async
+
+# TODO: Update to redis in the future
+production:
+  adapter: async

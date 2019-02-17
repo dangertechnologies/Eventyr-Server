@@ -1,0 +1,24 @@
+coop_base_bonus: 0.8
+unlock_distance: 0.1
+permission_level_edit_structures: 5
+permission_level_destroy_structures: 3
+permission_level_create_structures: 5
+permission_level_create_global_achievement: 6
+permission_level_edit_achievements: 6
+permission_level_destroy_achievements: 5
+permission_level:
+  create:
+    structures: 5
+    global_achievements: 6
+  edit:
+    structures: 5
+    global_achievements: 6
+  destroy:
+    structures: 3
+    global_achievements: 5
+default_map_zoom_level: 11
+achievements:
+    default:
+        is_suggested_global: true
+        is_multiplayer: true
+        is_global: false
